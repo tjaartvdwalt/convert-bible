@@ -15,4 +15,5 @@ For example:
 converter.py /my/path/bible.html
 ```
 
+The script can take quite a long time to complete as it downloads each chapter individually and insert verse numbers and footnotes. To give the user feedback as to whats happening, it outputs what book it is currently converting.
 

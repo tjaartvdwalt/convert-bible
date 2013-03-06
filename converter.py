@@ -122,7 +122,7 @@ def getDocument():
     # Iterate through all the books
     for i in range(0, len(boeke)):
         (boekKort, boekLank, maxRange) = boeke[i]
-        print("Parsing: " + str(boekLank))
+        print("Converting: " + str(boekLank))
 
         # Generate the index for each book
         output += generateBookIndex(boekKort, boekLank, maxRange)
