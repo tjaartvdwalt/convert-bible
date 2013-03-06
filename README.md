@@ -8,6 +8,8 @@ The idea is to create one big html page that contains the full bible text with i
 You need to run the script with Python 3.
 The original script was written for Python 2, but Python 3 natively uses UTF-8 encoding which made the code much cleaner because you don't have to encode strings throughout the code.
 
+The Python 2 version of the script is available in python2_converter branch, but it is not being maintained.
+
 ## How to use the script
 The script takes the output file name as a command line argument
 For example:
