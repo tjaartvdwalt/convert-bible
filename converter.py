@@ -47,9 +47,11 @@ def bybelboeke():
 ("JHN", "Johannes", 21), ("ACT", "Handelinge", 28), ("ROM", "Romeine", 16), 
 ("1CO", "1 Korintiërs", 16), ("2CO", "2 Korintiërs", 13), 
 ("GAL", "Galasiërs", 6), ("EPH", "Efesiërs", 6), ("PHP", "Filippense", 4),
-("COL", "Kolossense", 4), ("1TH", "1 Timoteus", 5), ("2TH", "2 Timoteus", 3),
-("1TI", "1 Tessalonisense", 6), ("2TI", "2 Tessalonisense", 4),
-("TIT", "Titus",3), ("PHM", "Filemon", 1), ("HEB", "Hebreërs", 13),
+("COL", "Kolossense", 4),
+("1TH", "1 Tessalonisense", 5), ("2TH", "2 Tessalonisense", 3),
+("1TI", "1 Timoteus", 6), ("2TI", "2 Timoteus", 4),
+
+("TIT", "Titus", 3), ("PHM", "Filemon", 1), ("HEB", "Hebreërs", 13),
  ("JAS", "Jakobus", 5), ("1PE", "1 Petrus", 5), ("2PE", "2 Petrus", 3),
  ("1JN", "1 Johannes", 5), ("2JN", "2 Johannes", 1), ("3JN", "3 Johannes", 1),
  ("JUD", "Judas", 1), ("REV" , "Openbaring", 22)
